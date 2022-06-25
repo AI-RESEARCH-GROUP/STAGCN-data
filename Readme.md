@@ -8,5 +8,5 @@
 ```
 其中violent_sorting.zip主要包含各种暴力分拣动作的原视频；skeleton.zip主要包含各种暴力分拣动作的骨骼数据。
 ### 下载方式 ###
-百度网盘：https://pan.baidu.com/s/1nrKE7KaEcVkWHY1cxbdddg
+百度网盘：https://pan.baidu.com/s/1nrKE7KaEcVkWHY1cxbdddg 
 提取码：dgkx
